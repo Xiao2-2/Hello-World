@@ -28,7 +28,7 @@ https://blog.csdn.net/beixishuo/article/details/104870999?ops_request_misc=%257B
 
 *演示效果*
 
-![avatar](/home/picture/pic1.png)
+![avatar](/pic1.png)
 
 [点击跳转到我的另一个网页](#Mark).
 
