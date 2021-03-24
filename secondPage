@@ -28,9 +28,9 @@ https://blog.csdn.net/beixishuo/article/details/104870999?ops_request_misc=%257B
 
 *演示效果*
 
-![avatar](/home/picture/1.png)
+![avatar](/pic1.png)
 
-[这句话是想要跳转到Mark处的锚点链接，点击即会跳转](#Mark).
+[点击跳转到Hello-World](#Hello-World).
 
 这是Vue的安装方式：
 
