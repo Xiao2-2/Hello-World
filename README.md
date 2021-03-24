@@ -29,7 +29,7 @@ https://blog.csdn.net/beixishuo/article/details/104870999?ops_request_misc=%257B
 
 ![avatar](/home/picture/pic1.png)
 
-[这句话是想要跳转到Mark处的锚点链接，点击即会跳转](#Mark).
+[点击跳转到我的另一个网页](#Mark).
 
 这是Vue的安装方式：
 
@@ -37,9 +37,9 @@ https://blog.csdn.net/beixishuo/article/details/104870999?ops_request_misc=%257B
 
 ~~代码如下：~~
 
-> 区块引用
+> 百度
 
-> 菜鸟教程
+> 吉林大学
 
 > 学的不仅是技术更是梦想
 
