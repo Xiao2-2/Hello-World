@@ -13,6 +13,7 @@ https://blog.csdn.net/beixishuo/article/details/104870999?ops_request_misc=%257B
 
 + 该层向上与视图层进行双向数据绑定
 + 向下与 Model 层通过接口请求进行数据交互
+
 ![avatar](https://img-blog.csdnimg.cn/20200314233119351.png)
 
 **2. 第一个Vue程序**
